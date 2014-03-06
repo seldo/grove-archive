@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.5.1",
-    "dashdash": "^1.4.0"
+    "dashdash": "^1.4.0",
+    "async": "~0.2.10"
   }
 }
